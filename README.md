@@ -4,8 +4,8 @@ I am a **`Data Science Student`** passionate about statistical analysis, machine
  
 
 <div style="padding-right: 10px;">
-  <img align="right" alt="cat" height="85" <img src="https://github.com/user-attachments/assets/aaf77e2b-e185-48cc-9c5a-12ca2d8d47ae" />
-  <img align="right" alt="cat" height="85" <img src="https://github.com/user-attachments/assets/c425e4f8-2cd0-4924-adf2-14df8e3d1f23" />
+  <img align="right" alt="cat" height="70" <img src="https://github.com/user-attachments/assets/aaf77e2b-e185-48cc-9c5a-12ca2d8d47ae" />
+  <img align="right" alt="cat" height="70" <img src="https://github.com/user-attachments/assets/c425e4f8-2cd0-4924-adf2-14df8e3d1f23" />
 
 <br>
 
