@@ -9,7 +9,7 @@ I am a **`Data Science Student`** passionate about statistical analysis, machine
 
 <br>
 
-## Linguagens e Tecnologias
+## Languages & Technologies
 <div style="padding-right: 10px;">
   <img align="center" alt="Python" height="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Mysql" height="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
