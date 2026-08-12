@@ -1,4 +1,4 @@
-## Hi there 💖
+## Hi there 
 
 I am a **`Data Science Student`** passionate about statistical analysis, machine learning and data visualization.
  
